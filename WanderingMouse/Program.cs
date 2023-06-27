@@ -44,7 +44,7 @@ namespace WanderingMouseApp
                 a.Wander();
                 a.Update();
                 a.Edges();
-                MouseControls.LeftDownAndMove((int)a.Pos.X, (int)a.Pos.Y);
+                //MouseControls.LeftDownAndMove((int)a.Pos.X, (int)a.Pos.Y);
                 Thread.Sleep(15);
                 Console.WriteLine(a.Pos);
             }
