@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33723.286
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WanderingMouse", "WanderingMouse\WanderingMouse.csproj", "{78A831EB-DA2E-4192-A8B7-E0F39347CBE0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WanderingMouseApp", "WanderingMouse\WanderingMouseApp.csproj", "{78A831EB-DA2E-4192-A8B7-E0F39347CBE0}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ODC.P5Sharp", "P5Sharp\ODC.P5Sharp.csproj", "{D256209F-A8B8-4166-9BC8-CEFC98A29908}"
 EndProject

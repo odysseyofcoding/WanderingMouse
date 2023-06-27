@@ -2,7 +2,7 @@
 using ODC.P5Sharp;
 using System.Numerics;
 
-namespace WanderingMouse
+namespace WanderingMouseApp
 {
     /// <summary>
     /// The screen size is currently hard coded on 1920*1080
