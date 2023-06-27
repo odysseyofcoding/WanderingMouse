@@ -9,7 +9,7 @@ P5.js: https://p5js.org/
 The Coding Train / Daniel Shiffman: https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw 
 
 ## What inspired me in general?
-I saw a documentary about psychology. It was focused on how to bring the mind into a stage to have a better focus on the right here, right now. They showed a device with a wandering light where you had to follow it with your eyes. - My exaple wanders, not really efficent but you can tweak it to wander from left to right in order to achieve the relaxing effect.
+I saw a documentary about psychology. It was focused on how to bring the mind into a stage to have a better focus on the right here, right now. They showed a device with a wandering light where you had to follow it with your eyes. - My exaple wanders in random directions, not really efficent but you can tweak it to wander from left to right in order to achieve the relaxing effect.
 
 ## Why the pc mouse and not a wandering drawing?
 I like challanges and one was to have the mouse programaticaly under control.
